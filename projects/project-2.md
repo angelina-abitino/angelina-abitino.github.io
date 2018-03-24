@@ -16,11 +16,14 @@ summary: My goal is to create a smart home system that can recognize commands th
 ---
 
 Did you know?
+
 About 500,000 people in the U.S. communicate using american sign language.
 
 American sign language is the 4th most used language in the United States.
 
 Over 90% of deaf children have hearing parents.
+
+<hr>
 
 Recently, smart home systems have been gaining popularity and are expanding in the kind of tasks they can perform. Even though the current systems have APIs that allow developers to integrate new features, they still rely purely on voice commands. That is why for my senior engineering project I would like to create a smart home system that can take in American Sign Language as commands so that the deaf community can also comfortably utilize smart home systems.
 
