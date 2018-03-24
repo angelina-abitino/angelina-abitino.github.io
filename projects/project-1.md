@@ -1,44 +1,23 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/cup.jpg
+title: Reflect
+permalink: projects/reflect
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-01-15
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - WebDev
+  - Journaling
+  - Productivity
+  - WebApp
+summary: Me and a couple of friends are developing a Google Chrome extension which appears on a new tab and presents the user with an interface to journal and reflect daily.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Each day we have many unique experiences, and whether they be obviously life-changing or not, they shape who we are. Thousands of thoughts run across our mind, and as humans it's natural for us to try and express them in some way. Many turn to journaling as a a creative outlet or just a mechanism to process their experiences. The thing is, it's hard to keep up with on a daily basis - at least that is what I have heard from friends who have tried to do it, and if I'm being honest, I have failed at it too. It's easy to buy that cute statement journal - "1 prompt, every day for a year" or artsy leatherbound notebook, but the hard things is to actually write your thoughts in it everyday. In our increasingly digital world, many of us have left pen and paper behind, and as nice as it is to have a tangible journal, it doesn't always conveniently fit into the common person's daily life. Chrome-Reflect is meant to put an end to this gap in self-reflection. It is a Google Chrome "new-tab" extension, which means that whenever the user opens a new tab in their web browser Chrome-Reflect will be there to greet them and present them with a beautiful and easy-to-use interface for them to journal their thoughts as they flow in. Chrome-Reflect will always be their as you're surfing the web procrastinating on that paper, checking the morning headlines, or whatever else that thing called the internet is used for.
 
 
 
