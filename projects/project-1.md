@@ -11,7 +11,7 @@ labels:
   - Journaling
   - Productivity
   - WebApp
-summary: Me and a couple of friends are developing a Google Chrome extension which appears on a new tab and presents the user with an interface to journal and reflect daily.
+summary: Chrome Reflect is a Google Chrome extension which appears on a new tab and presents the user with an interface to journal and reflect daily.
 ---
 
 <div class="ui small rounded images">
