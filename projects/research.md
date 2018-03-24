@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/brain.png
+image: images/ai.png
 title: Measuring Catastrophic Forgetting in Neural Networks
 permalink: projects/catastrophicforgetting
 # All dates must be YYYY-MM-DD format!
