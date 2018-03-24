@@ -1,25 +1,36 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/signlanguage.png
+title: Sign Language Smart Home
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-17
 labels:
   - Javascript
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: My goal is to create a smart home system that can recognize commands through sign language.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+About 500,000 people in the U.S. communicate using american sign language.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+American sign language is the 4th most used language in the United States.
+
+Over 90% of deaf children have hearing parents.
+
+Recently, smart home systems have been gaining popularity and are expanding in the kind of tasks they can perform. Even though the current systems have APIs that allow developers to integrate new features, they still rely purely on voice commands. That is why for my senior engineering project I would like to create a smart home system that can take in American Sign Language as commands so that the deaf community can also comfortably utilize smart home systems.
+
+Specifically, I am creating a system that can control a Samsung Hue light with the following commands:
+- turn on the light
+- turn off the light
+- dim the light
+- make the light yellow, green, red, or blue
+- strobe effect
+
+The AI of my Sign Language Smart Home system is powered with neural networks. I use the pre-trained Inception-v3 convolutional neural net to process spatial features, and a recurrent neural network to process the temporal features.
+
+Here is a schematic of how the system is designed: an XBOX Kinect is used as the camera which detects and takes in a video of the signer giving an ASL command. Some computer vision techniques are then used to pre-process the video, and then a series of frames are sent for processing with the dual-network AI system and the predicted command is sent to an Adafruit WiFi shield which communicates through a WiFi Bridge using HTTP protocol to send the command and change the state of the Samsung Hue light.
