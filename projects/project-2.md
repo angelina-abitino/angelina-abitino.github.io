@@ -11,6 +11,9 @@ labels:
   - HTTP
   - Python
   - TensorFlow
+  - TFLearn
+  - ASL
+  - Neural Networks
   - AI
 summary: My goal is to create a smart home system that can recognize commands through sign language.
 ---
