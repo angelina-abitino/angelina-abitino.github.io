@@ -138,6 +138,16 @@
       ]
     }
   ],
+  "publications": [
+    {
+      "name": "Measuring Catastrophic Forgetting in Neural Networks",
+      "type": "conference",
+      "author": "Kemker, R., McClure, M., Abitino, A., Hayes, T., Kanan, C. ",
+      "publisher": "Association for the Advancement of Artificial Intelligence 2018",
+      "releaseDate": "January, 2018",
+      "website": "https://arxiv.org/abs/1708.02072",
+      "summary": ""
+    },
   "references": [
     {
       "name": "Available upon request",
