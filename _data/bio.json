@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Angelina",
+    "name": "Angelina Abitino",
     "label": "Student",
     "picture": "https://angelina-abitino.github.io/images/profile_small.jpg",
     "email": "aabitin1@swarthmore.edu",
@@ -65,6 +65,21 @@
     },
     {
       "name": "photography",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "violin",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "food",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "travel",
       "keywords": [
       ]
     }
