@@ -34,6 +34,11 @@
         "network": "instagram",
         "username": "angelina_abitino",
         "url": "http://instagram.com/angelina_abitino"
+      },
+      {
+        "network": "tumble",
+        "username": "picturesaswords",
+        "url": "http://picturesaswords.tumblr.com"
       }
     ]
   },
@@ -49,7 +54,17 @@
       ]
     },
     {
+      "name": "computer vision",
+      "keywords": [
+      ]
+    },
+    {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "photography",
       "keywords": [
       ]
     }
@@ -62,6 +77,10 @@
         "C",
         "C++",
         "Python",
+        "TensorFlow",
+        "Keras",
+        "TFLearn",
+        "Sci-Kit Learn",
         "Assembly",
         "Matlab"
       ]
@@ -71,75 +90,51 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "g++",
+        "gdb",
+        "valgrind",
+        "microcontrollers",
         "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Swarthmore College, Swarthmore, PA",
+      "area": "Engineering and Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.6",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Rochester Institute of Technology",
+      "position": "Student Researcher",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-11",
+      "summary": "Worked on a machine learning and computer vision research group.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Published a research paper about measuring catastrophic forgetting in neural networks."  
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Swarthmore College Office of Student Engagement",
+      "position": "Resident Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017-09-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Responsible for a dormitory housing 48 students",
+        "General resource and counselor for the student body",
+        "Liaison between students and the administration"
       ]
     }
   ],
