@@ -3,16 +3,16 @@
     "name": "Angelina Abitino",
     "label": "Student",
     "picture": "https://angelina-abitino.github.io/images/profile_small.jpg",
-    "email": "aabitin1@swarthmore.edu",
+    "email": "angelina.abitino@gmail.com",
     "phone": "",
     "website": "https://angelina-abitino.github.io",
     "summary": "I am a student at Swarthmore College studying Engineering and Computer Science, and will be graduating in May 2018. \n I am interested in how we can harness the vast amounts of information the world contains in order to create robust AI systems that can strengthen the connections between diverse groups of people globally. When I'm not coding and drinking coffee, you can find me taking pictures of the people and places around me. Check out the tumblr link below for a look at my portfolio, and stay tuned for an exciting project ahead.",
     "location": {
-      "address": "500 College Ave",
-      "postalCode": "19081",
-      "city": "Swarthmore",
-      "countryCode": "USA",
-      "region": "Pennsylvania"
+      "address": "",
+      "postalCode": "",
+      "city": "Madison",
+      "countryCode": "",
+      "region": "Wisconsin"
     },
     "profiles": [
       {
@@ -26,14 +26,9 @@
         "url": "http://linkedin.com/in/angelinaabitino"
       },
       {
-        "network": "twitter",
+        "network": "vsco",
         "username": "angelinaabitino",
-        "url": "http://twitter.com/angelinaabitino"
-      },
-      {
-        "network": "instagram",
-        "username": "angelina_abitino",
-        "url": "http://instagram.com/angelina_abitino"
+        "url": "https://vsco.co/angelinaabitino/"
       },
       {
         "network": "tumblr",
@@ -69,6 +64,11 @@
       ]
     },
     {
+      "name": "ceramics",
+      "keywords": [
+      ]
+    }
+    {
       "name": "violin",
       "keywords": [
       ]
@@ -94,14 +94,17 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Python",
         "TensorFlow",
         "Keras",
         "TFLearn",
         "Sci-Kit Learn",
-        "Assembly",
+        "SQL",
+        "C++",
+        "C",
+        "JavaScript",
+        "HTML/CSS",
+        "React",
         "Matlab"
       ]
     },
@@ -111,10 +114,9 @@
       "keywords": [
         "MacOS",
         "Linux",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "gdb",
-        "valgrind",
+        "gnu tools",
         "microcontrollers",
         "TI LaunchPad"
       ]
@@ -126,7 +128,7 @@
       "area": "Engineering and Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
+      "endDate": "2018-05-22",
       "gpa": "3.6",
       "courses": [
       ]
@@ -134,27 +136,66 @@
   ],
   "work": [
     {
+      "company": "Epic",
+      "position": "EDI Engineer - Data Aggregation",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Developed extraction, transformation, and load processes to import large scale claims data into SQL server databases",
+        "Designed queries to validate data in non-production environments",
+        "Streamlined and managed claims import projects for healthcare organizations"
+      ]
+    },
+    {
       "company": "Rochester Institute of Technology",
       "position": "Student Researcher",
       "website": "",
       "startDate": "2017-06-01",
       "endDate": "2017-08-11",
-      "summary": "Worked on a machine learning and computer vision research group.",
+      "summary": "",
       "highlights": [
-        "Published a research paper about measuring catastrophic forgetting in neural networks."  
+        "Awarded grant from National Science Foundation to engage in lifelong learning research for Research Experiences for Undergraduates",
+        "Conducted systematic literature review on proposed methods to reduce catastrophic forgetting in deep neural networks",
+        "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras, and Tensorflow libraries",
+        "Co-authored paper and presented poster at 2018 AAAI conference"  
       ]
     },
     {
       "company": "Swarthmore College Office of Student Engagement",
       "position": "Resident Assistant",
       "website": "",
-      "startDate": "2017-09-01",
-      "endDate": "Present",
+      "startDate": "2017-08-01",
+      "endDate": "2018-05-22",
       "summary": "",
       "highlights": [
         "Responsible for a dormitory housing 48 students",
         "General resource and counselor for the student body",
         "Liaison between students and the administration"
+      ]
+    },
+    {
+      "company": "Swarthmore College Communications Department",
+      "position": "Photographer",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2018-05-22",
+      "summary": "",
+      "highlights": [
+        "Photographed campus events and edited media for official college social media and quarterly publication, the Swarthmore College Bulletin"
+      ]
+    },
+    {
+      "company": "Swarthmore College Engineering Department",
+      "position": "Photographer",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "2017-12-22",
+      "summary": "",
+      "highlights": [
+        "Provided students with constructive feedback on coursework and assisted with faculty office hours",
+        "Graded coursework for Digital Systems and Computer Engineering Fundamentals, as well as Design of Digital and Embedded Systems"
       ]
     }
   ],
