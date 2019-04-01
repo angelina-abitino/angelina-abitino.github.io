@@ -17,7 +17,7 @@ labels:
 summary: Over the past summer I researched the lifelong learning problem of catastrophic forgetting in neural networks at the Rochester Institute of Technology.
 ---
 
-Last summer I received a NSF undergraduate research grant to do research in the kLab at the Rochester Institute of Technology.
+I received a NSF undergraduate research grant to do research in the kLab at the Rochester Institute of Technology.
 The kLab is a research lab part of the Center of Imagining Science which focuses on solving the problem of lifelong learning through
 machine learning and computer vision. http://klab.cis.rit.edu/
 
