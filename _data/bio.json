@@ -124,7 +124,7 @@
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2018-05-22",
-      "gpa": "3.6",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -132,7 +132,7 @@
   "work": [
     {
       "company": "Epic",
-      "position": "EDI Engineer - Data Aggregation",
+      "position": "Integration Engineer - Data Aggregation",
       "website": "",
       "startDate": "2018-08-01",
       "endDate": "present",
@@ -154,7 +154,7 @@
         "Awarded grant from National Science Foundation to engage in lifelong learning research for Research Experiences for Undergraduates",
         "Conducted systematic literature review on proposed methods to reduce catastrophic forgetting in deep neural networks",
         "Designed and implemented experiments to evaluate and compare mitigation methods with Python using Keras, and Tensorflow libraries",
-        "Co-authored paper and presented poster at 2018 AAAI conference"  
+        "Co-authored paper accepted into 2018 Conference on Artificial Intelligence"  
       ]
     },
     {
@@ -189,7 +189,6 @@
       "endDate": "2017-12-22",
       "summary": "",
       "highlights": [
-        "Provided students with constructive feedback on coursework and assisted with faculty office hours",
         "Graded coursework for Digital Systems and Computer Engineering Fundamentals, as well as Design of Digital and Embedded Systems"
       ]
     }
@@ -201,7 +200,7 @@
       "author": "Kemker, R., McClure, M., Abitino, A., Hayes, T., Kanan, C. ",
       "publisher": "Association for the Advancement of Artificial Intelligence 2018",
       "releaseDate": "January, 2018",
-      "website": "https://arxiv.org/abs/1708.02072",
+      "website": "https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16410",
       "summary": ""
     },
    ],
