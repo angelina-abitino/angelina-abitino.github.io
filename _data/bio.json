@@ -93,6 +93,9 @@
         "TensorFlow",
         "Keras",
         "TFLearn",
+        "NumPy",
+        "SciPy",
+        "Pandas",
         "Sci-Kit Learn",
         "SQL",
         "C++",
@@ -100,7 +103,7 @@
         "JavaScript",
         "HTML/CSS",
         "React",
-        "Matlab"
+        "MATLAB"
       ]
     },
     {
@@ -120,7 +123,7 @@
   "education": [
     {
       "institution": "Swarthmore College, Swarthmore, PA",
-      "area": "Engineering and Computer Science (expected Spring, 2018)",
+      "area": "Engineering and B.A. Computer Science",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2018-05-22",
