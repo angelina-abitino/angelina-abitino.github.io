@@ -6,7 +6,7 @@
     "email": "angelina.abitino@gmail.com",
     "phone": "",
     "website": "https://angelina-abitino.github.io",
-    "summary": "I am an engineer interested in the advancement of safe and equitable machine learning systems. When I'm not coding you might find me cooking, making pottery, or taking pictures of the people and places around me. Click the tumblr link below for a look at my photography portfolio.",
+    "summary": "I am an engineer interested in the advancement of safe and equitable AI systems. I like to think about how we can design robots that can learn from their mistakes and environment in order to add value to society.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,7 +34,7 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "continual learning",
       "keywords": [
       ]
     },
@@ -141,7 +141,7 @@
       "endDate": "present",
       "summary": "",
       "highlights": [
-        "Developed extraction, transformation, and load processes to import large scale claims data into SQL server databases",
+        "Developed and tested ETL processes to import large scale claims data into SQL server databases",
         "Designed queries to validate data in non-production environments",
         "Streamlined and managed claims import projects for healthcare organizations"
       ]
