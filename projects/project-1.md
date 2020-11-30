@@ -1,4 +1,4 @@
-e---
+---
 layout: project
 type: project
 image: images/cup.jpg
