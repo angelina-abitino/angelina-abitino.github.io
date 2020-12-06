@@ -19,7 +19,7 @@ summary: Over the past summer I researched the lifelong learning problem of cata
 
 I received a NSF undergraduate research grant to do research in the kLab at the Rochester Institute of Technology.
 The kLab is a research lab part of the Center of Imagining Science which focuses on solving the problem of lifelong learning through
-machine learning and computer vision. http://klab.cis.rit.edu/
+machine learning and computer vision. <link>http://klab.cis.rit.edu/</link>
 
 Catastrophic forgetting is the tendency for a neural network to immediately "forget" previously learned information after it is presented
 with new, dissimilar information. This is a huge concern as we try to move towards more generalizeable and adaptable AI systems, and no efficient 
