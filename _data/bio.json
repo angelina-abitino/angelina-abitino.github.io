@@ -6,7 +6,7 @@
     "email": "angelina.abitino@gmail.com",
     "phone": "",
     "website": "https://angelina-abitino.github.io",
-    "summary": "I am an engineer interested in the advancement of safe and equitable AI systems. I like to think about how we can design robots that can learn from their mistakes and environment in order to add value to society.",
+    "summary": "I am an engineer interested in the advancement of safe and equitable AI systems. I like to think about how we can design robots that can learn from their mistakes and add value to society through applications of education.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,17 +29,32 @@
         "network": "tumblr",
         "username": "picturesaswords",
         "url": "http://picturesaswords.tumblr.com"
+      },
+      {
+        "network": "wordpress",
+        "username": "angelinaabitino",
+        "url": "https://angelinaabitino.wordpress.com"
       }
     ]
   },
   "interests": [
+    {
+      "name": "lifelong machine learning",
+      "keywords": [
+      ]
+    },
     {
       "name": "continual learning",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "education",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "accessibility",
       "keywords": [
       ]
     },
@@ -50,6 +65,16 @@
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "CAD design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "rapid prototyping",
       "keywords": [
       ]
     },
@@ -103,7 +128,9 @@
         "JavaScript",
         "HTML/CSS",
         "React",
-        "MATLAB"
+        "MATLAB",
+        "Rhino 3D",
+        "Adobe Suite"
       ]
     },
     {
