@@ -12,13 +12,13 @@ labels:
   - Rapid Prototyping
   - Design
 
-summary: During my spring semested of Junior year at Swarthmore College, I took a course called Design & Sculpture in the Digital Age cross-listed in the engineering and arts department. This extremely collaborative cross-disciplinary course taught me concepts of design as well as rapid prototyping. I became skilled with using the Adobe Suite, Rhino 3D modeling software, 3D printing, and laser cutting.
+summary: During my spring semested of Junior year at Swarthmore College, I took a course called Design & Sculpture in the Digital Age cross-listed in the engineering and arts department. 
 
 
 ---
 
 <div class="ui small rounded images">
 </div>
-This extremely collaborative cross-disciplinary course taught me concepts of design as well as rapid prototyping. I became skilled with using the Adobe Suite, Rhino 3D modeling software, 3D printing, and laser cutting. Here is my blog and portfolio from the class.
+This extremely collaborative cross-disciplinary course taught me concepts of design as well as rapid prototyping. I became skilled with using the Adobe Suite, Rhino 3D modeling software, 3D printing, and laser cutting. Here is my blog and portfolio from the class: https://angelinaabitino.wordpress.com
 
 
